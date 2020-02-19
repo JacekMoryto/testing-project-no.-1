@@ -7,3 +7,5 @@ Scenariusze testowe oraz przypadki testowe znajdują się w jednym pliku o nazwi
 Udokumentowane defekty znajdują się w pliku "bug.report"
 
 Raport testów znajduje się w pliku o nazwie "test.report"
+
+Specyfikacja wymagań funkcjonalnych - plik o nazwie "OrangeHRM_FRS.pdf"
