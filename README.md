@@ -9,3 +9,5 @@ Udokumentowane defekty znajdują się w pliku "bug.report.xlsx"
 Raport testów znajduje się w pliku o nazwie "test.report.pdf"
 
 Specyfikacja wymagań funkcjonalnych - plik o nazwie "OrangeHRM_FRS.pdf"
+
+Autor: Jacek Moryto - www.linkedin.com/in/jacek-moryto
